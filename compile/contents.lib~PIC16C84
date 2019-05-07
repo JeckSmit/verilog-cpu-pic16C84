@@ -1,0 +1,11 @@
+136
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "./src/P16C84.v" 103 P16C5x
+~A 1 "./src/P16C84.v" 103 P16C5x
+~M 1 "./src/ALU.v" 77 P16C5x_ALU
+~A 1 "./src/ALU.v" 77 P16C5x_ALU
+~M 1 "./src/P16C84_IDec.v" 198 P16C5x_IDec
+~A 1 "./src/P16C84_IDec.v" 198 P16C5x_IDec
+~M 3 "./src/TestBench/P16C84_TB.v" 68 tb_P16C5x
+~A 1 "./src/TestBench/P16C84_TB.v" 68 tb_P16C5x

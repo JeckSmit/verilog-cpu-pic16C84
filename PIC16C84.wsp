@@ -1,0 +1,36 @@
+[General]
+CurrentVersion=103
+[COMPILESTATUS|.\src\ALU.v]
+FileTimeLow=30331991
+Status=Compiled
+[COMPILESTATUS|.\src\P16C55.v]
+FileTimeLow=30733170
+Status=Compiled
+[COMPILESTATUS|.\src\P16C55_IDec.v]
+FileTimeLow=30331991
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\P16C5x_TB.v]
+FileTimeLow=30733169
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\P16C5x_TB_runtest.do]
+FileTimeLow=30733169
+[COMPILESTATUS|.\src\TestBench\P16C5x_TB_settings.txt]
+FileTimeLow=30733168
+[COMPILESTATUS|.\src\P16C84.v]
+FileTimeLow=30733170
+Status=Compiled
+[COMPILESTATUS|.\src\P16C84_IDec.v]
+FileTimeLow=30331991
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\P16C84_TB.v]
+FileTimeLow=30733169
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\P16C84_TB_runtest.do]
+FileTimeLow=30737619
+Status=Modified
+[COMPILESTATUS|.\src\TestBench\P16C84_TB_settings.txt]
+FileTimeLow=30733168
+[CACHEDOC|Aldec.Project.Generic.7|.\PIC16C84\PIC16C84.adf|]
+Path=
+[Gui config]
+RunFor=200 ns

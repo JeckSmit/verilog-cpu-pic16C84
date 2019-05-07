@@ -1,0 +1,89 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=PIC16C84
+
+[Library]
+PIC16C84=.\PIC16C84.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+REFRESH_FLOW=1
+FAMILY=<none>
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+PIC16C84=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+TestBench=1
+
+[Files]
+/ALU.v=-1
+/P16C84.v=-1
+/P16C84_IDec.v=-1
+TestBench/P16C84_TB.v=-1
+TestBench/P16C84_TB_runtest.do=-1
+TestBench/P16C84_TB_settings.txt=-1
+
+[Files.Data]
+.\src\ALU.v=Verilog Source Code
+.\src\P16C84.v=Verilog Source Code
+.\src\P16C84_IDec.v=Verilog Source Code
+.\src\TestBench\P16C84_TB.v=Verilog Source Code
+.\src\TestBench\P16C84_TB_runtest.do=Macro
+.\src\TestBench\P16C84_TB_settings.txt=Text File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+[Folders]
+Name3=Makefiles
+Directory3=c:\My_Designs\1\PIC16C84\
+Extension3=mak
+Name4=Memory
+Directory4=c:\My_Designs\1\PIC16C84\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=c:\My_Designs\1\PIC16C84\
+Extension5=dll
+Name6=PDF
+Directory6=c:\My_Designs\1\PIC16C84\
+Extension6=pdf
+Name7=HTML
+Directory7=c:\My_Designs\1\PIC16C84\
+Extension7=

@@ -1,0 +1,4 @@
+.\src\ALU.v
+.\src\P16C84.v
+.\src\P16C84_IDec.v
+.\src\TestBench\P16C84_TB.v
